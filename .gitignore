@@ -1,0 +1,10 @@
+# Thư mục biên dịch tạm của NetBeans / Maven
+/build/
+/dist/
+/target/
+/nbproject/private/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+*.log
